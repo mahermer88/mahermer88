@@ -4,6 +4,7 @@
 ### hello all, I'm Maher - student at Hack Your Future 👋 👋 
 
 [![Follow](https://img.shields.io/website?label=hackyourfuture.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.hackyourfuture.net/)
+![Profile views](https://img.shields.io/website?label=Profile views&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://gpvc.arturio.dev/mahermer88)  
 
 
 

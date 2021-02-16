@@ -60,13 +60,16 @@
 ### 📺 Latest Repositories
 
 <!-- BLOG-POST-LIST:START -->
-<a href="https://bit.ly/3rpgd2N"><strong>Nutrition-strategies</strong></a>
+<ul>
+<li><a href="https://bit.ly/3rpgd2N"><strong>Nutrition-strategies</strong></a></li>
 
-<a href="https://bit.ly/3ttLhQW"><strong>Digital-Resume</strong></a>
+<li><a href="https://bit.ly/3ttLhQW"><strong>Digital-Resume</strong></a></li>
 
-<a href="https://mahermer88.github.io/HYF-Module-HTMLCSSGIT/Week3/Rebuild-Adyen.html"><strong>Rebuild Adyen homepage</strong></a>
+<li><a href="https://mahermer88.github.io/HYF-Module-HTMLCSSGIT/Week3/Rebuild-Adyen.html"><strong>Rebuild Adyen homepage</strong></a></li>
 
-<a href="https://mahermer88.github.io/HYF-Module-HTMLCSSGIT/Week1/Digital Resume.html"><strong>Digital-Resume</strong></a>
+<li><a href="https://mahermer88.github.io/HYF-Module-HTMLCSSGIT/Week1/Digital Resume.html"><strong>Digital-Resume</strong></a></li>
+
+</ul>
 <!-- BLOG-POST-LIST:END -->
 
 ---

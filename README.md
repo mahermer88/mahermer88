@@ -13,8 +13,6 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ I'm looking forward to developing on a personal level
 
-<img align="right" alt="profile" height="150px" width="600px" src="https://github.com/mahermer88/mahermer88/blob/main/info.gif"/>
-
 ### Connect with me:
 
 [<img align="left" alt="email" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][Email]
@@ -23,8 +21,6 @@
 [<img align="left" alt="linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br /><br />
-<br /><br />
-<br />
 
 ---
 

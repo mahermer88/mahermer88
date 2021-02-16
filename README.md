@@ -58,7 +58,7 @@
 <br />
 <br />
 
-![Dino](https://github.com/mahermer88/mahermer88/dino.gif)
+<img src="https://github.com/mahermer88/mahermer88/blob/main/dino.gif"/>
 
 
 

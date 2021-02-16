@@ -40,27 +40,16 @@
 <img align="left" alt="Matlab" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/mathworks.svg"/>
 <img align="left" alt="photoshop" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"/>
 
-<br />
-<br />
-
 ---
-
-<br />
-
----
-
 <br />
 
 ### GitHub Stats
 <img align="left" alt="maher's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mahermer88&&theme=chartreuse-dark&show_icons=true&hide_border=true" />
 
-<br />
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahermer88)](https://github.com/mahermer88/github-readme-stats)
 
 
 <br />
-
 
 ---
 ---

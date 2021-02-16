@@ -33,18 +33,22 @@
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"/>
 <br />
 <br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahermer88)](https://github.com/mahermer88/github-readme-stats)
+
+<br />
+
+<details>
+<summary>:zap: GitHub Stats</summary>
+<img align="left" alt="maher's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mahermer88&theme=solarized-light&show_icons=true&hide_border=true" />
+</details>
+
 ---
 
 ### 📺 Latest Posts 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 ---
-<details>
-<summary>:zap: GitHub Stats</summary>
-<img align="left" alt="maher's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mahermer88&theme=solarized-light&show_icons=true&hide_border=true" />
-</details>
-
-
 
 [Email]: ma.meer@hotmail
 [twitter]: https://twitter.com/MaherMA03960763

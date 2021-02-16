@@ -8,12 +8,12 @@
 
 
 - 🔭 Since the beginning of 2021, I have joined to HackYourFuture coding school.!
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything 🤣 
+<img align="right" alt="profile" height="350px" width="400px" src="https://github.com/mahermer88/mahermer88/blob/main/info.gif"/>
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ I'm looking forward to developing on a personal level
 
-<img align="right" alt="profile" height="350px" width="400px" src="https://github.com/mahermer88/mahermer88/blob/main/info.gif"/>
 
 
 ### Connect with me:

@@ -1,5 +1,5 @@
 
-<img alt="Git" src="https://github.com/mahermer88/mahermer88/blob/main/banner3.jpg"/>
+<img alt="Git" src="https://www.itoutcomes.com/wp-content/uploads/2016/08/banner3.jpg"/>
 
 ### hello all, I'm Maher - student at Hack Your Future 👋 👋 
 
@@ -60,6 +60,10 @@
 ### 📺 Latest Repositories
 
 <!-- BLOG-POST-LIST:START -->
+<a href="https://bit.ly/3rpgd2N">Nutrition-strategies</a></p>
+<a href="https://bit.ly/3ttLhQW">Digital-Resume</a></p>
+<a href="https://mahermer88.github.io/HYF-Module-HTMLCSSGIT/Week3/Rebuild-Adyen.html">Rebuild Adyen homepage</a><br>
+<a href="https://mahermer88.github.io/HYF-Module-HTMLCSSGIT/Week1/Digital Resume.html">Digital-Resume</a>
 <!-- BLOG-POST-LIST:END -->
 
 ---

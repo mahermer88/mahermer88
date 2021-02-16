@@ -4,8 +4,7 @@
 ### hello all, I'm Maher - student at Hack Your Future 👋 👋 
 
 [![Follow](https://img.shields.io/website?label=hackyourfuture.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.hackyourfuture.net/)
-![Profile views](https://img.shields.io/website?label=Profile views&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://gpvc.arturio.dev/mahermer88)  
-
+![Profile views](https://gpvc.arturio.dev/mahermer88)  
 
 
 - 🔭 Since the beginning of 2021, I have joined to HackYourFuture coding school.!
@@ -51,7 +50,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahermer88&&theme=chartreuse-dark)](https://github.com/mahermer88/github-readme-stats)
 
-<br />
+<br /><br />
 
 ---
 ### 📺 Latest Repositories
@@ -74,7 +73,14 @@
 
 <img src="https://github.com/mahermer88/mahermer88/blob/main/dino.gif"/>
 
+---
+<br />
 
+![GitHub metrics](https://metrics.lecoq.io/mahermer88)  
+
+<br />
+
+---
 
 [Email]: ma.meer@hotmail
 [twitter]: https://twitter.com/MaherMA03960763

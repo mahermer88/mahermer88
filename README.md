@@ -49,6 +49,8 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 ---
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mahermer88&&theme=chartreuse-dark&repo=github-readme-stats)](https://github.com/mahermer88/github-readme-stats)
+
 
 [Email]: ma.meer@hotmail
 [twitter]: https://twitter.com/MaherMA03960763

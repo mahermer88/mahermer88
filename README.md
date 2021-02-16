@@ -39,15 +39,12 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 ---
+<details>
+<summary>:zap: GitHub Stats</summary>
+<img align="left" alt="maher's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mahermer88&theme=solarized-light&show_icons=true&hide_border=true" />
+</details>
 
----
 
-### 📕 Latest 
-
-
----
-
-<img align="left" alt="maher's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mahermer88&show_icons=true&hide_border=true" />
 
 [Email]: ma.meer@hotmail
 [twitter]: https://twitter.com/MaherMA03960763

@@ -57,7 +57,8 @@
 ---
 <br />
 <br />
-![Dino](https://raw.githubusercontent.com/mahermer88/mahermer88/master/dino.gif)
+
+![Dino](https://github.com/mahermer88/mahermer88/dino.gif)
 
 
 

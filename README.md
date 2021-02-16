@@ -1,6 +1,6 @@
 ### hello all, I'm Maher - student at Hack Your Future 👋
 
-[![Follow](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.hackyourfuture.net/)
+[![Follow](https://img.shields.io/website?label=hackyourfuture.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.hackyourfuture.net/)
 
 
 - 🔭 Since the beginning of 2021, I have joined to [HackYourFuture] coding school.!

@@ -13,7 +13,7 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ I'm looking forward to developing on a personal level
 
-<img align="right" alt="profile" height="150px" width="550px" src="https://github.com/mahermer88/mahermer88/blob/main/info.gif"/>
+<img align="right" alt="profile" height="150px" width="400px" src="https://github.com/mahermer88/mahermer88/blob/main/info.gif"/>
 
 
 ### Connect with me:

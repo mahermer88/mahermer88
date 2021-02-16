@@ -1,26 +1,30 @@
 
 <img alt="Git" src="https://www.itoutcomes.com/wp-content/uploads/2016/08/banner3.jpg"/>
 
-### hello all, I'm Maher - student at Hack Your Future 👋
+### hello all, I'm Maher - student at Hack Your Future 👋 👋 
 
 [![Follow](https://img.shields.io/website?label=hackyourfuture.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.hackyourfuture.net/)
 
 
-- 🔭 Since the beginning of 2021, I have joined to [HackYourFuture] coding school.!
+
+- 🔭 Since the beginning of 2021, I have joined to HackYourFuture coding school.!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ I'm looking forward to developing on a personal level
 
+<img align="right" alt="profile" height="200px" width="720px" src="https://github.com/mahermer88/mahermer88/blob/main/info.gif"/>
+
+
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][Email]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="email" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][Email]
+[<img align="left" alt="youtube | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<br />
-<br />
+<br /><br />
+<br /><br />
 
 ---
 

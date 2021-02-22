@@ -3,9 +3,9 @@
 
 ### hello all, I'm Maher - student at Hack Your Future 👋 👋 
 
-[![Follow](https://img.shields.io/badge/hackyourfuture.com-UP-orange)](https://www.hackyourfuture.net/)
-![Profile views](https://gpvc.arturio.dev/mahermer88) 
-![Like views](https://img.shields.io/badge/Likeme-%F0%9F%91%8D-blue)
+[![Follow](https://img.shields.io/badge/hackyourfuture.com-UP-orange?style=for-the-badge&logo=appveyor)](https://www.hackyourfuture.net/)
+![Profile views](https://gpvc.arturio.dev/mahermer88?style=for-the-badge&logo=appveyor) 
+![Like views](https://img.shields.io/badge/Likeme-%F0%9F%91%8D-blue?style=for-the-badge&logo=appveyor)
 
 <br>
 

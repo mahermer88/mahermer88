@@ -4,7 +4,7 @@
 ### hello all, I'm Maher - student at Hack Your Future 👋 👋 
 
 [![Follow](https://img.shields.io/badge/hackyourfuture.com-UP-orange?style=for-the-badge&logo=appveyor)](https://www.hackyourfuture.net/)
-![Like views](https://img.shields.io/badge/Likeme-%F0%9F%91%8D-blue?style=for-the-badge&logo=appveyor)
+![Like views](https://img.shields.io/badge/Likeme-%F0%9F%91%8D-blue?style=flat-square&logo=appveyor)
 ![Views](https://gpvc.arturio.dev/mahermer88) 
 
 <br>

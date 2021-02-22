@@ -4,8 +4,11 @@
 ### hello all, I'm Maher - student at Hack Your Future 👋 👋 
 
 [![Follow](https://img.shields.io/badge/hackyourfuture.com-UP-orange?style=for-the-badge&logo=appveyor)](https://www.hackyourfuture.net/)
-![Views](https://gpvc.arturio.dev/mahermer88) 
+![Views](https://gpvc.arturio.dev/mahermer88)
+<img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/mahermer88/Homework">
+<img alt="Issues" src="https://img.shields.io/github/issues/mahermer88/Homework?color=0088ff" />
 ![Like views](https://img.shields.io/badge/Likeme-%F0%9F%91%8D-blue?style=social&logo=appveyor)
+
 
 <br>
 

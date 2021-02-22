@@ -53,9 +53,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahermer88&&theme=chartreuse-dark)](https://github.com/mahermer88/github-readme-stats)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahermer88&&theme=chartreuse-dark" alt="mahermer88" /></a></p> 
-
-
 
 
 <br /><br />
@@ -91,6 +88,11 @@
 <br />
 
 ---
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahermer88&&theme=chartreuse-dark" alt="mahermer88" /></a></p> 
+
+---
+
 
 [Email]: ma.meer@hotmail
 [twitter]: https://twitter.com/MaherMA03960763

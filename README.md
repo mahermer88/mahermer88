@@ -49,7 +49,7 @@
 
 <img align="left" alt="maher's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mahermer88&&theme=chartreuse-dark&show_icons=true&hide_border=true" />
 
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mahermer88&&theme=chartreuse-dark" alt="mahermer88" />
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mahermer88&&theme=chartreuse-dark" alt="mahermer88" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahermer88&&theme=chartreuse-dark)](https://github.com/mahermer88/github-readme-stats)
 

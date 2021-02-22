@@ -3,9 +3,11 @@
 
 ### hello all, I'm Maher - student at Hack Your Future 👋 👋 
 
-[![Follow](https://img.shields.io/website?label=hackyourfuture.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.hackyourfuture.net/)
-![Profile views](https://gpvc.arturio.dev/mahermer88)  
+[![Follow](https://img.shields.io/badge/hackyourfuture.com-UP-orange)](https://www.hackyourfuture.net/)
+![Profile views](https://gpvc.arturio.dev/mahermer88) 
+![Like views](https://img.shields.io/badge/Likeme-%F0%9F%91%8D-blue)
 
+<br>
 
 - 🔭 Since the beginning of 2021, I have joined to HackYourFuture coding school.!
 - 🌱 I’m currently learning everything 🤣 
@@ -92,7 +94,7 @@
 
 ---
 
-
+[Follow]: https://www.hackyourfuture.net/
 [Email]: ma.meer@hotmail
 [twitter]: https://twitter.com/MaherMA03960763
 [youtube]: https://www.youtube.com/channel/UCHTc8VzcF80DFMEpUM2QDDg

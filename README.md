@@ -5,7 +5,7 @@
 
 [![Follow](https://img.shields.io/badge/hackyourfuture.com-UP-orange?style=plastic&logo=appveyor)](https://www.hackyourfuture.net/)
 ![Views](https://gpvc.arturio.dev/mahermer88) 
-![Like views](https://img.shields.io/badge/Likeme-%F0%9F%91%8D-blue?style=plastic&logo=appveyor)
+![Like views](https://img.shields.io/badge/Likeme-%F0%9F%91%8D-blue?style=social&logo=appveyor)
 
 <br>
 

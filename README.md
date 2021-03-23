@@ -69,13 +69,15 @@
 
 <!-- BLOG-POST-LIST:START -->
 <ul>
-<li><a href="https://bit.ly/3rpgd2N"><strong>Nutrition-strategies</strong></a></li>
+<li><a href="https://mahermer88.github.io/Quiz/."><strong>Quiz</strong></a></li><br>  
+  
+<li><a href="https://bit.ly/3rpgd2N"><strong>Nutrition-strategies</strong></a></li><br>
 
-<li><a href="https://bit.ly/3ttLhQW"><strong>Digital-Resume</strong></a></li>
+<li><a href="https://bit.ly/3ttLhQW"><strong>Digital-Resume</strong></a></li><br>
 
-<li><a href="https://mahermer88.github.io/HYF-Module-HTMLCSSGIT/Week3/Rebuild-Adyen.html"><strong>Rebuild Adyen homepage</strong></a></li>
+<li><a href="https://mahermer88.github.io/HYF-Module-HTMLCSSGIT/Week3/Rebuild-Adyen.html"><strong>Rebuild Adyen homepage</strong></a></li><br>
 
-<li><a href="https://mahermer88.github.io/HYF-Module-HTMLCSSGIT/Week1/Digital Resume.html"><strong>Digital-Resume</strong></a></li>
+<li><a href="https://mahermer88.github.io/HYF-Module-HTMLCSSGIT/Week1/Digital Resume.html"><strong>Digital-Resume</strong></a></li><br>
 
 </ul>
 <!-- BLOG-POST-LIST:END -->

@@ -1,5 +1,5 @@
 
-<img alt="Git" src="https://github.com/mahermer88/mahermer88/blob/main/info.gif"/>
+<img alt="Git" src="https://github.com/mahermer88/mahermer88/blob/main/GIF-210324_144945[1].gif"/>
 
 ### hello all, I'm Maher - student at Hack Your Future 👋 👋 
 

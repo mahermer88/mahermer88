@@ -1,5 +1,5 @@
 
-<img alt="Git" src="https://github.com/mahermer88/mahermer88/blob/main/GIF-210324_144945[1].gif"/>
+<img alt="Git" src="https://github.com/mahermer88/mahermer88/blob/main/fave-button1.gif"/>
 
 ### hello all, I'm Maher - student at Hack Your Future 👋 👋 
 
@@ -85,7 +85,7 @@
 ---
 <br />
 
-<img src="https://github.com/mahermer88/mahermer88/blob/main/dino.gif"/>
+<img src="https://github.com/mahermer88/mahermer88/blob/main/GIF-210324_144945[1].gif"/>
 
 ---
 <br />

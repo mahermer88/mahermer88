@@ -69,6 +69,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 <ul>
+<li><a href="https://mahermer88.github.io/UsingAPIs-Project-Footballer/"><strong>Footballer - Home</strong></a></li><br>   
+  
 <li><a href="https://mahermer88.github.io/Quiz/."><strong>Quiz</strong></a></li><br>  
   
 <li><a href="https://bit.ly/3rpgd2N"><strong>Nutrition-strategies</strong></a></li><br>
